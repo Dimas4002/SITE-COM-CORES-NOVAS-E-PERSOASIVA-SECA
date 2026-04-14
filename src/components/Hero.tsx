@@ -31,6 +31,10 @@ export default function Hero() {
               <img 
                 src="/hero.webp" 
                 alt="30 Receitas" 
+                width="665"
+                height="362"
+                fetchPriority="high"
+                loading="eager"
                 className="max-w-full h-auto mix-blend-multiply"
                 referrerPolicy="no-referrer"
               />
