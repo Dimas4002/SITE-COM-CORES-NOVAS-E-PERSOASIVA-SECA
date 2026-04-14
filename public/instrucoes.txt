@@ -1,0 +1,1 @@
+Este arquivo garante que a pasta public exista. Você deve colocar as imagens hero.webp e destaque.webp nesta pasta.
